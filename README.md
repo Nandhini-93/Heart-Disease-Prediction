@@ -4,16 +4,20 @@
 
 # Libraries Used -
 Pandas (for data manipulation)
+
 Matplotlib (for data visualization)
+
 Seaborn (for data visualization)
+
 Scikit-Learn (for data modeling)
 
 # Contents:
 * Importing the required libraries.
-* 
+
 * Importing and Reading the dataset.
-* 
+
 * Exploratory Data Analysis (EDA).
+
     Data-Preprocessing
     Data Visualization
     Correlation Matrix
