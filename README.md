@@ -19,7 +19,9 @@ Scikit-Learn (for data modeling)
 * Exploratory Data Analysis (EDA).
 
     Data-Preprocessing
+  
     Data Visualization
+  
     Correlation Matrix
 
 * Data Modeling.
